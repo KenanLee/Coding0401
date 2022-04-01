@@ -1,6 +1,14 @@
-Int a = 5;
-Int b = 3;
-If (a + b > 10)
+int a = 5;
+int b = 3;
+if (a - b > 7)
 {
-	Console.WriteLine("the answer is greater than 10");
+	Console.WriteLine("the answer is greater than 7");
+}
+else if (a - b = 7)
+{
+	Console.WriteLine("the answer is 7");
+}
+else
+{
+	Console.WriteLine("the answer is smaller than 7");
 }
